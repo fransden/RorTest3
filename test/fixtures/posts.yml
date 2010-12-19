@@ -1,0 +1,11 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  content: MyString
+  target_tds: 2010-12-18 22:28:32
+  user_id: 1
+
+two:
+  content: MyString
+  target_tds: 2010-12-18 22:28:32
+  user_id: 1
